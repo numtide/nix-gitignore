@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "QywZs9l9w3VFg4gd1wpKO/jfzik=",
+			"path": "github.com/monochromegane/go-gitignore",
+			"revision": "38717d0a108ca0e5af632cd6845ca77d45b50729",
+			"revisionTime": "2016-01-05T11:36:17Z"
+		}
+	],
+	"rootPath": "github.com/numtide/nix-gitignore"
+}
